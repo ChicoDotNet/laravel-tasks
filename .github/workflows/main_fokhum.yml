@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fokhum'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C00569AE7C64BCCB4AF42B5BC5FDC7E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AEE62F810B646F99A1D476B4CC62AC8 }}
           package: .
